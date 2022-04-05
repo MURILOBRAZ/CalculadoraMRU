@@ -1,0 +1,20 @@
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csprojAssemblyReference.cache
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.FrmGeral.resources
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.Properties.Resources.resources
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csproj.GenerateResource.cache
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csproj.CoreCompileInputs.cache
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\bin\Debug\TP03_202873.exe.config
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\bin\Debug\TP03_202873.exe
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\bin\Debug\TP03_202873.pdb
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.exe
+D:\Games\Visual Studio\Projetos\TP03_202873\TP03_202873\obj\Debug\TP03_202873.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\bin\Debug\TP03_202873.exe.config
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\bin\Debug\TP03_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\bin\Debug\TP03_202873.pdb
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csprojAssemblyReference.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.FrmGeral.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.Properties.Resources.resources
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csproj.GenerateResource.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.csproj.CoreCompileInputs.cache
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.exe
+D:\Usuários\Pichau\Desktop\ProjetosVS\TP03_202873\TP03_202873\obj\Debug\TP03_202873.pdb
